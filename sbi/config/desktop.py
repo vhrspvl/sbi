@@ -6,9 +6,11 @@ def get_data():
 	return [
 		{
 			"module_name": "Recruitment",
+			"category": "Modules",
+			"description": "Manage Employee Onboarding",
 			"color": "grey",
 			"icon": "octicon octicon-organization",
 			"type": "module",
-			"label": _("Recruitment")
+			"label": _("Employee Onboarding")
 		}
 	]
