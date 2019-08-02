@@ -11,7 +11,7 @@ $(document).bind('toolbar_setup', function() {
 		href="https://discuss.erpnext.com">Feedback</a></p>'
 
 
-	$('.navbar-home').html('<img class="erpnext-icon" src="'+
+	$('.navbar-home').html('<img class="erpnext-icon" style="width:75px" src="'+
 			frappe.urllib.get_base_url()+'/files/sbi.png" />');
 
 	$('[data-link="docs"]').attr("href", "https://frappe.github.io/erpnext/")

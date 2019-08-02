@@ -9,6 +9,14 @@ def get_data():
 				{
 					"type": "doctype",
 					"name": "Employment Application Form",
+				},
+				{
+					"type": "doctype",
+					"name": "Offer Letter",
+				},
+				{
+					"type": "doctype",
+					"name": "Employee Joining Form",
 				}
 			]
 		}

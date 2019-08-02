@@ -20,7 +20,7 @@ app_include_js = "/assets/sbi/js/conf.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/sbi/css/sbi.css"
-# web_include_js = "/assets/sbi/js/sbi.js"
+web_include_js = "/assets/sbi/js/conf.js"
 
 # include js in page
 # page_js = {"page" : "public/js/file.js"}
